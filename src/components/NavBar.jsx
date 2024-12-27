@@ -34,7 +34,7 @@ const NavBar = () => {
               <li>Projects</li>
             </a>
             <a href="#contact">
-              <button className="flex items-center gap-1 px-3 py-1 cursor-pointer rounded-md bg-blue-500 text-white shadow-[0_0_2px_#fff,inset_0_0_2px_#fff,0_0_5px_#33cccc,0_0_15px_#33cccc,0_0_30px_#33cccc] shadow-blue-500 border-blue-400 border-2">
+              <button className="flex items-center gap-1 px-3 py-1 cursor-pointer rounded-md bg-blue-500 hover:bg-blue-600 text-white hover:shadow-[0_0_2px_#fff,inset_0_0_2px_#fff,0_0_5px_#33cccc,0_0_15px_#33cccc,0_0_30px_#33cccc] hover:shadow-blue-500 border-blue-400 border-2">
                 Contact
                 <FaChevronRight />
               </button>
